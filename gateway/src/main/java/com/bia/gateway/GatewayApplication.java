@@ -1,4 +1,4 @@
-package com.alibou.gateway;
+package com.bia.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

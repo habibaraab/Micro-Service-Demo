@@ -1,4 +1,4 @@
-package com.alibou.school;
+package com.bia.school;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

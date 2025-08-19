@@ -1,4 +1,4 @@
-package com.alibou.student;
+package com.bia.student;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

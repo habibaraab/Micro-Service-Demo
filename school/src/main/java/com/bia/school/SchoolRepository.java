@@ -1,4 +1,4 @@
-package com.alibou.school;
+package com.bia.school;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

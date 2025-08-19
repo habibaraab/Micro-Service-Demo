@@ -1,4 +1,4 @@
-package com.alibou.school;
+package com.bia.school;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

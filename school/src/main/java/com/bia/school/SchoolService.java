@@ -1,6 +1,6 @@
-package com.alibou.school;
+package com.bia.school;
 
-import com.alibou.school.client.StudentClient;
+import com.bia.school.client.StudentClient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
