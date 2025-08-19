@@ -1,6 +1,6 @@
-package com.bia.school.client;
+package com.alibou.school.client;
 
-import com.bia.school.Student;
+import com.alibou.school.Student;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

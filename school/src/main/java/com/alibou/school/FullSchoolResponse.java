@@ -1,4 +1,4 @@
-package com.bia.school;
+package com.alibou.school;
 
 import lombok.*;
 

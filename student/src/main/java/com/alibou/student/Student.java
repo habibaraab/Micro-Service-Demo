@@ -1,4 +1,4 @@
-package com.bia.student;
+package com.alibou.student;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
